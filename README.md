@@ -18,11 +18,11 @@ This project includes:
 
 ## Included Files
 
-- **Assignment Report.pdf** – Full written assignment
+- **Assignment Report.pdf** – Full written assignment（also can see: https://tiancidong23.atlassian.net/wiki/x/AYAE）
 - **RACI Chart.pdf** – Responsibility assignment matrix
 - **Confluence Screenshot 1** – Main project workspace page
 - **Confluence Screenshot 2** – Supporting project documentation page
-- **Video Link.txt** – YouTube presentation link
+- **Video Link.txt** – YouTube presentation link:https://youtu.be/cnk9_vPPdoc
 
 ## Project Team Roles
 
